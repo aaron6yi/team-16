@@ -26,7 +26,10 @@ NA
 
 ## Contribution
 data cleaning - Emily 
+
 data visualization - Brigette
+
 data splitting/in framework - Ada
+
 build an initial model - Aaron
 
