@@ -1,4 +1,4 @@
-# Team 16 Project: Stroke Diagnosis and Outcome Prediction
+# Team 16 Project: Heart Failure Prediction
 
 ## Project Overview
 
