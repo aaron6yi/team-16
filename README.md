@@ -40,6 +40,32 @@ This dataset includes:
 
 # 🔍 Explanation of the Visualization
 
+
+### 🖼️ Visualization Explanation: Box Plots of Selected Numeric Features by Heart Disease
+
+The box plots provide a comparative analysis of numeric features between patients with (`HeartDisease = 1`) and without (`HeartDisease = 0`) heart disease. Here’s what the data tells us:
+
+#### **1. Age vs Heart Disease**
+- Patients with heart disease tend to be slightly older on average compared to those without heart disease.
+- The interquartile range (IQR) of age for both groups overlaps significantly, but the median age is higher in the heart disease group.
+
+#### **2. RestingBP (Resting Blood Pressure) vs Heart Disease**
+- The median resting blood pressure is slightly higher in patients with heart disease, but the range of values is similar for both groups.
+- There are several outliers in both groups with extremely low or high blood pressure values.
+
+#### **3. Cholesterol vs Heart Disease**
+- Patients with heart disease exhibit a wider range of cholesterol levels, with some having exceptionally high values.
+- The median cholesterol level is also higher for heart disease patients, though there is substantial overlap in the IQR.
+
+#### **4. MaxHR (Maximum Heart Rate) vs Heart Disease**
+- The maximum heart rate is notably lower in patients with heart disease, as indicated by the lower median and IQR in the heart disease group.
+- This difference suggests that reduced maximum heart rate is a strong indicator of heart disease.
+
+#### **5. Oldpeak (Exercise-Induced ST Depression) vs Heart Disease**
+- Patients with heart disease have significantly higher Oldpeak values, indicating more exercise-induced ST segment depression.
+- This feature exhibits a clear separation between the two groups, making it a strong predictor of heart disease.
+
+
 ### 📊 Distribution of Key Features by Heart Disease Status
 
 This figure presents the **distribution of variables by heart disease status**, highlighting the differences between patients with and without heart disease. Each subplot visualizes the distribution of a key demographic or health-related variable using histograms and kernel density estimates (KDEs).  
