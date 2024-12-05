@@ -36,7 +36,18 @@ This dataset includes:
 | Initial Model Development        | Aaron       |
 
 ---
+## Key Insights Summary 
+Variables like Sex, Chest Pain Type, Exercise Angina, ST Slope, MaxHR, Age, and Oldpeak are strong predictors of heart disease, whereas RestingBP and Cholesterol show weaker predictive power. These findings guide targeted diagnosis and predictive modeling efforts.
 
+Box Plots: Highlight trends in numeric variables like age, cholesterol, and maximum heart rate. For instance, patients with heart disease are generally older and have lower maximum heart rates, while Oldpeak (ST depression) shows a clear distinction between groups.
+
+Distribution Analysis: Histograms and KDEs show demographic and health-related variable distributions. Males and patients with specific chest pain types, higher fasting blood sugar, or exercise-induced angina are more likely to have heart disease. Younger individuals and those with higher maximum heart rates tend to be free of heart disease.
+
+Heatmap: Visualizes correlations, showing relationships between features and heart disease, aiding in identifying predictive variables.
+
+Categorical Counts: Examines patterns in features like sex, chest pain, and ST slope, with clear indicators such as more males and certain chest pain types being linked to heart disease.
+
+---
 
 # 🔍 Explanation of the Visualization
 
