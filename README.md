@@ -44,7 +44,7 @@ This dataset includes:
 ![Distribution of Variables by Heart Disease](./pics/Distribution%20of%20Variables%20by%20Heart%20Disease.png)
 
 
-#### Observations
+### Observations
 
 - **ChestPainType**: Certain types strongly correlate with heart disease.
 - **Fasting Blood Sugar**: Elevated levels (coded as 1) are more common in heart disease patients.
@@ -58,7 +58,7 @@ This dataset includes:
 ![Categorical Features Distribution by Gender](./pics/Categorical%20Features%20Distribution%20by%20Gender.png)
 
 
-## Insights
+### Insights
 
 - **ChestPainType**: Typical angina is prevalent among patients with heart disease, with variation between genders.
 - **ST_Slope**: A downward slope is a consistent indicator across genders.
@@ -70,7 +70,7 @@ This dataset includes:
 ![Proportion of Each Variable in Heart Disease Cases](./pics/Proportion%20of%20Each%20Variable%20in%20Heart%20Disease%20Cases.png)
 
 
-### Key Insights:
+### Insights:
 
 - **ChestPainType**: typical angina is the most common type (77.2%) in heart disease cases, making it a reliable marker, while other types like non-anginal pain or asymptomatic chest pain are less prevalent.  
 - **ExerciseAngina**: reported by 62.2% of patients, exercise-induced angina is a critical indicator of heart disease risk.  
