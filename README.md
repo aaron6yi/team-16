@@ -41,7 +41,8 @@ This dataset includes:
 
 **We compared the distribution of features for patients with and without heart disease. Each feature's role in distinguishing between the two groups was visualized using histograms and kernel density estimation plots (KDE).**
 
-![Distribution of Variables by Heart Disease](./pics/Distribution of Variables by Heart Disease.png)
+![Distribution of Variables by Heart Disease](./pics/Distribution%20of%20Variables%20by%20Heart%20Disease.png)
+
 
 #### Observations
 
@@ -54,7 +55,8 @@ This dataset includes:
 ## 👫 Gender-Based Analysis
 **How do risk factors differ between genders?**
 
-![Categorical Features Distribution by Gender](./pics/Categorical_Features_Distribution_by_Gender.png)
+![Categorical Features Distribution by Gender](./pics/Categorical%20Features%20Distribution%20by%20Gender.png)
+
 
 ## Insights
 
@@ -65,7 +67,8 @@ This dataset includes:
 ## 📈 Proportion of Features in Heart Disease Cases
 **The analysis focused on key features that differentiate individuals with heart disease, aiming to identify the most reliable indicators for early diagnosis and prediction.**
 
-![Proportion of Each Variable in Heart Disease Cases](./pics/Proportion_of_Each_Variable_in_Heart_Disease_Cases.png)
+![Proportion of Each Variable in Heart Disease Cases](./pics/Proportion%20of%20Each%20Variable%20in%20Heart%20Disease%20Cases.png)
+
 
 ### Key Insights:
 
@@ -78,9 +81,16 @@ This dataset includes:
 ## 🧑‍🤝‍🧑 Demographic Insights
 - **Age and Gender Imbalance**: Most cases involve middle-aged to older men. This could influence model predictions and requires careful consideration for bias mitigation.
 
-![Heart Disease Distribution by Age Group](../pics/Heart_Disease_Distribution_by_Age_Group.png)
 
-![Heart Disease Count by Gender](../pics/Heart_Disease_Count_by_Gender.png)
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+<img src="./pics/Heart Disease Distribution by Age Group.png" alt="Heart Disease Distribution by Age Group" height="320px">
+
+<img src="./pics/Heart Disease Count by Gender.png" alt="Heart Disease Count by Gender" height="320px">
+
+</div>
+
+---
 
 ## 🤖 Heart Failure Prediction Model
 
