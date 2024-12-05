@@ -57,11 +57,14 @@ This dataset includes:
 
 ![Categorical Features Distribution by Gender](./pics/Categorical%20Features%20Distribution%20by%20Gender.png)
 
-
 ### Insights
 
-- **ChestPainType**: Typical angina is prevalent among patients with heart disease, with variation between genders.
-- **ST_Slope**: A downward slope is a consistent indicator across genders.
+- **ChestPainType**: Typical angina (TA) is more common in males with heart disease, while females tend to present with non-typical angina (NAP) or asymptomatic (ASY) pain types.
+- **FastingBS**: High fasting blood sugar is a stronger risk factor for heart disease in males, while it is less pronounced in females.
+- **RestingECG**: Abnormal ST readings are frequent in both genders, but females show a higher proportion of Left Ventricular Hypertrophy (LVM).
+- **ExerciseAngina**: Males with heart disease frequently report exercise-induced angina, while females are less likely to exhibit this symptom, potentially leading to under-diagnosis.
+- **ST_Slope**: A downward slope is a strong and consistent indicator of heart disease across genders, though males show a higher prevalence of this marker.
+
 
 
 ## 📈 Proportion of Features in Heart Disease Cases
