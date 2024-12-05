@@ -84,9 +84,9 @@ This dataset includes:
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
 
-<img src="./pics/Heart Disease Distribution by Age Group.png" alt="Heart Disease Distribution by Age Group" height="250px">
+<img src="./pics/Heart Disease Distribution by Age Group.png" alt="Heart Disease Distribution by Age Group" height="260px">
 
-<img src="./pics/Heart Disease Count by Gender.png" alt="Heart Disease Count by Gender" height="250px">
+<img src="./pics/Heart Disease Count by Gender.png" alt="Heart Disease Count by Gender" height="260px">
 
 </div>
 
