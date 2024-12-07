@@ -1,7 +1,4 @@
-<div style="display: flex; gap: 20px;">
-  <img src="https://learn.utoronto.ca/themes/custom/de_theme/logo.svg" alt="UofT Logo" height="50">
-  <img src="https://datasciences.utoronto.ca/wp-content/uploads/2021/12/Logo.png" alt="Data Sciences Logo" height="50">
-</div>
+
 
 # UofT | DSI - Team 16 Project: ❤️‍🩹 Heart Failure Prediction
 
