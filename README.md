@@ -124,6 +124,9 @@ Among the models, **XGBoost** demonstrated a strong tendency to minimize type II
   <img src="./pics/DSI_Project.png" alt="Project Presentation" width="720">
 </a>
 
+### Lessons learnt from the Project and my Contribution to the Project
+
+https://youtu.be/fbHedUM_ucc
 ---
 
 ## 🏗️ Project Folder Structure
