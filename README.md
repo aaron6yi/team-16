@@ -113,6 +113,18 @@ This experiment aimed to predict heart failure using three machine learning mode
 #### 🔍✨ Focus on Type II Error  
 Among the models, **XGBoost** demonstrated a strong tendency to minimize type II errors (false negatives) in the confusion matrix. This makes it particularly valuable in clinical settings where failing to identify true heart failure cases could have severe consequences. By achieving a balance between recall and precision, XGBoost is well-suited for applications where accurate detection of high-risk patients is critical. Future work will involve testing the model on external datasets and integrating it into decision-support systems for real-world healthcare applications.
 
+---
+### 🌟 Reflections on Teamwork  
+<a href="https://youtu.be/6EUUGq8oldo" target="_blank">
+  <img src="https://img.youtube.com/vi/6EUUGq8oldo/0.jpg" alt="Reflections on Teamwork" width="720">
+</a>
+
+---
+
+### 📽️ Project Presentation  
+<a href="https://youtu.be/CUds0OJGxjU" target="_blank">
+  <img src="https://img.youtube.com/vi/CUds0OJGxjU/0.jpg" alt="Project Presentation" width="720">
+</a>
 
 ---
 
