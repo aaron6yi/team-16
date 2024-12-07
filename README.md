@@ -117,14 +117,14 @@ Among the models, **XGBoost** demonstrated a strong tendency to minimize type II
 
 ### 🌟 Reflections on Teamwork  
 <a href="https://www.loom.com/share/a2ae9ed1c99d47f4bc0109f7436a5766?sid=6c62565c-d94e-4ad2-9897-5fcc6b811747" target="_blank">
-  <img src="https://img.youtube.com/vi/6EUUGq8oldo/0.jpg" alt="Reflections on Teamwork" width="920">
+  <img src="https://img.youtube.com/vi/6EUUGq8oldo/0.jpg" alt="Reflections on Teamwork" width="720">
 </a>
 
 ---
 
 ### 📽️ Project Presentation  
 <a href="https://youtu.be/CUds0OJGxjU" target="_blank">
-  <img src="./pics/DSI_Project.png" alt="Project Presentation" width="920">
+  <img src="./pics/DSI_Project.png" alt="Project Presentation" width="720">
 </a>
 
 ---
