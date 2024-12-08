@@ -29,7 +29,7 @@ This dataset includes:
 |----------------------------------|-------------|
 | Data Cleaning                    | Emily       |
 | Data Visualization               | Brigette    |
-| Data Splitting & Framework Setup | Ada         |
+| Data Splitting & Framework Setup | Ogechi      |
 | Machine Learning Development     | Aaron       |
 
 ---
@@ -118,17 +118,15 @@ Among the models, **XGBoost** demonstrated a strong tendency to minimize type II
 </a>
 
 ---
+### 💡 Project Insight
+<a href="https://youtu.be/fbHedUM_ucc" target="_blank"> <img src="https://img.youtube.com/vi/fbHedUM_ucc/0.jpg" alt="Project Insight from Ogechi" width="720"> </a>
 
-### 📽️ Project Presentation  
+---
+
+### 📽️ Project Introduction  
 <a href="https://youtu.be/CUds0OJGxjU" target="_blank">
   <img src="./pics/DSI_Project.png" alt="Project Presentation" width="720">
 </a>
-
-### Lessons learnt from the Project and my Contribution to the Project:
-Below is a link to my (Ogechi Azuike) youtube video.
-
-https://youtu.be/fbHedUM_ucc
----
 
 ## 🏗️ Project Folder Structure
 
