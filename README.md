@@ -41,12 +41,19 @@ This dataset includes:
 ![Distribution of Variables by Heart Disease](./pics/Distribution%20of%20Variables%20by%20Heart%20Disease.png)
 
 
-### Observations
+### Observations & Summary
+The visualizations analyze how specific features differ between patients with and without heart disease. Key insights include:
+-  Box Plots: Highlight trends in numeric variables like age, cholesterol, and maximum heart rate. For instance, patients with heart disease are generally older and have lower maximum heart rates, while Oldpeak (ST depression) shows a clear distinction between groups.
+- Distribution Analysis: Histograms and KDEs show demographic and health-related variable distributions. Males and patients with specific chest pain types, higher fasting blood sugar, or exercise-induced angina are more likely to have heart disease. Younger individuals and those with higher maximum heart rates tend to be free of heart disease.
+- Heatmap: Visualizes correlations, showing relationships between features and heart disease, aiding in identifying predictive variables.
+- Categorical Counts: Examines patterns in features like sex, chest pain, and ST slope, with clear indicators such as more males and certain chest pain types being linked to heart disease.
+Overall Insights: Variables such as Sex, Chest Pain Type, Exercise Angina, ST Slope, MaxHR, Age, and Oldpeak are strong predictors of heart disease, whereas RestingBP and Cholesterol show weaker predictive power. These findings guide targeted diagnosis and predictive modeling efforts.
 
 - **ChestPainType**: Certain types strongly correlate with heart disease.
 - **Fasting Blood Sugar**: Elevated levels (coded as 1) are more common in heart disease patients.
 - **ExerciseAngina**: A critical indicator, with a strong link to heart disease.
 - **Oldpeak**: Higher values strongly associate with heart disease.
+
 
 ---
 ## 👫 Gender-Based Analysis
@@ -150,6 +157,9 @@ Among the models, **XGBoost** demonstrated a strong tendency to minimize type II
 |-- data_cleaning.ipynb
 |-- README.md
 
+
+## Video links:
+Emily: https://www.loom.com/share/a2ae9ed1c99d47f4bc0109f7436a5766?sid=6c62565c-d94e-4ad2-9897-5fcc6b811747 
 
 
 
