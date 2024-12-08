@@ -123,7 +123,7 @@ Among the models, **XGBoost** demonstrated a strong tendency to minimize type II
 
 ---
 
-### 📽️ Project Introduction  
+### 📽️ Project Summary  
 <a href="https://youtu.be/CUds0OJGxjU" target="_blank">
   <img src="./pics/DSI_Project.png" alt="Project Presentation" width="720">
 </a>
